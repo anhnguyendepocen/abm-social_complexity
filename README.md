@@ -1,4 +1,4 @@
-## SIMULATING SOCIAL EVOLUTION USING AGENT-BASED MODELLING
+## SIMULATING THE EMERGENCE OF SOCIAL COMPLEXITY USING AGENT-BASED MODELLING
 
 This NetLogo model (IDE version 6.0.4) is the product of a replication study conducted from March to July 2018, as part of the Into Research II module of the MEi:CogSci study programme.
 
