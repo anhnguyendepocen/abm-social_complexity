@@ -57,5 +57,7 @@ The original model described in [1] was not made public.
 ## CREDITS AND REFERENCES
 
 [1] S. Scott, “Environmental Circumscription and the Emergence of Social Complexity,” in _Computational Social Science Society of America (CSSSA) Annual Conference 2011_, Washington, DC: Computational Social Science Society of America, 2011.
+
 [2] R. L. Carneiro, “A Theory of the Origin of the State,” _Science, New Series_, vol. 169, pp. 733-738, 1970.
+
 [3] R. Andre, "Simulating the Emergence of Social Complexity Using Agent-Based Modelling," in _Proceedings of the MEi:CogSci Conference 2018_, Bratislava: Comenius University, p. 64, 2018
