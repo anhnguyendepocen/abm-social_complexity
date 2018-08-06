@@ -12,11 +12,6 @@ For the purpose of this model, social complexity is defined as political hierarc
 
 Using this model, environmental circumscription can be simulated by decreasing the amount of land resources (habitable land), while leaving the number of competing social groups constant.
 
-The model was used to test the following hypothesis: an increase of habitable land in the modelled artificial landscape also increases the time (measured in time-steps) required for one social group to subjugate all other groups in the simulation, and for social complexity to emerge.
-
-A short summary of the research project, that this model is the result of, can be found in [3].
-
-
 ## HOW IT WORKS
 
 The model has the following key parameters:
