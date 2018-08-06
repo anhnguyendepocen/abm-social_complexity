@@ -1,3 +1,7 @@
+## SIMULATING SOCIAL EVOLUTION USING AGENT-BASED MODELLING
+
+This NetLogo model (IDE version 6.0.4) is the product of a replication study conducted from March to July 2018, as part of the Into Research II module of the MEi:CogSci study programme.
+
 ## WHAT IS IT?
 
 This model is a replication of the model described in [1], a social simulation that tests the _Circumscription Theory_ using agent-based modelling. According to this theory, the emergence of states (autonomous political units of higher social complexity) is a predictable response to environmental circumscription, which is supposed to entail warfare of social groups over available land resources [2].
