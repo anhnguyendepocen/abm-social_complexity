@@ -1,9 +1,3 @@
-# SIMULATING SOCIAL EVOLUTION USING AGENT-BASED MODELLING
-
-This model is a replication of the model described in [1], a social simulation that tests the 'circumscription theory' using agent-based modelling. According to this theory, the emergence of states (autonomous political units of higher social complexity) is a predictable response to environmental circumscription, which is supposed to entail warfare of social groups over available land resources [2]. For the purpose of this model, social complexity is defined as political hierarchy, implicitly emerging when social groups subjugate each other through warfare. the highest level of social complexity is achieved when one of the initial social groups subjugates all the others in the simulation. using this model, environmental circumscription can be simulated by decreasing the amount of land resources (habitable land), while leaving the number of competing social groups constant.
-
-The model was used to test the following hypothesis: an increase of habitable land in the modelled artificial landscape also increases the time required for one social group to subjugate all other groups in the simulation, and for social complexity to emerge. A short summary of the research project, that this model is the result of, can be found in [3].
-
 ## WHAT IS IT?
 
 This model is a replication of the model described in [1], a social simulation that tests the _Circumscription Theory_ using agent-based modelling. According to this theory, the emergence of states (autonomous political units of higher social complexity) is a predictable response to environmental circumscription, which is supposed to entail warfare of social groups over available land resources [2].
@@ -11,6 +5,10 @@ This model is a replication of the model described in [1], a social simulation t
 For the purpose of this model, social complexity is defined as political hierarchy, implicitly emerging when social groups subjugate each other through warfare. The highest level of social complexity is achieved when one of the initial social groups subjugates all the others in the simulation.
 
 Using this model, environmental circumscription can be simulated by decreasing the amount of land resources (habitable land), while leaving the number of competing social groups constant.
+
+The model was used to test the following hypothesis: an increase of habitable land in the modelled artificial landscape also increases the time (measured in time-steps) required for one social group to subjugate all other groups in the simulation, and for social complexity to emerge.
+
+A short summary of the research project, that this model is the result of, can be found in [3].
 
 ## HOW IT WORKS
 
@@ -59,5 +57,7 @@ The original model described in [1] was not made public.
 ## CREDITS AND REFERENCES
 
 [1] S. Scott, “Environmental Circumscription and the Emergence of Social Complexity,” in _Computational Social Science Society of America (CSSSA) Annual Conference 2011_, Washington, DC: Computational Social Science Society of America, 2011.
+
 [2] R. L. Carneiro, “A Theory of the Origin of the State,” _Science, New Series_, vol. 169, pp. 733-738, 1970.
+
 [3] R. Andre, "Simulating the Emergence of Social Complexity Using Agent-Based Modelling," in _Proceedings of the MEi:CogSci Conference 2018_, Bratislava: Comenius University, p. 64, 2018
